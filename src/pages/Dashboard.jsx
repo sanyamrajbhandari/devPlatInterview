@@ -1,9 +1,9 @@
 import RequestCard from "../components/RequestCard"
 function Dashboard() {
   return (
-      <div>
+      <div className="flex">
 
-        <div className=" border w-2/5">
+        <div className="w-2/5">
             <div>
                 <p>Manage attendance, late slips, and leave requests in one place</p>
                 <p className='text-[40px]'>Welcome Back, Jeeshnu Maharjan!</p>
